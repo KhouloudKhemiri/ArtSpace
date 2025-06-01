@@ -1,2 +1,9 @@
 # ArtSpace
 JETCOMPOSER
+*.iml
+.gradle
+/local.properties
+/.idea/
+build/
+captures/
+.externalNativeBuild" 
